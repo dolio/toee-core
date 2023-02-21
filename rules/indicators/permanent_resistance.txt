@@ -1,0 +1,5 @@
+ID_string: PERMANENT_RESISTANCE
+effect_type: 0
+texture_file: art\interface\player_conditions\buffs\Spell Resistance.tga
+help_topic: TAG_SPELLS_PERMANENCY
+tooltip_base_text: Resistance

@@ -1,0 +1,5 @@
+ID_string: PERMANENT_SEE_INVISIBILITY
+effect_type: 0
+texture_file: art\interface\player_conditions\buffs\Spell See Invisibility.tga
+help_topic: TAG_SPELLS_PERMANENCY
+tooltip_base_text: See Invisibility

@@ -1,0 +1,5 @@
+ID_string: PERMANENT_GREATER_MAGIC_FANG
+effect_type: 0
+texture_file: art\interface\player_conditions\buffs\Spell Greater Magic Fang.tga
+help_topic: TAG_SPELLS_PERMANENCY
+tooltip_base_text: Greater Magic Fang
