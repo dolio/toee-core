@@ -15,6 +15,8 @@ def	OnSpellEffect( spell ):
 		wt = target.get_weapon_type()
 		if wt != wt_club and wt != wt_quarterstaff:
 			fizzle = True
+		if target.item_flags_get() & OIF_IS_MAGICAL:
+			fizzle = True
 		if target.item_condition_has('Weapon Enhancement Bonus'):
 			fizzle = True
 
